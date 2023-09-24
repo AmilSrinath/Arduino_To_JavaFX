@@ -52,6 +52,7 @@ public class FormController extends Application implements Initializable {
         Scene scene = new Scene(root);
         stage.setScene(scene);
         stage.show();
+
     }
 
     public void jButton1OnAction(ActionEvent actionEvent) {
